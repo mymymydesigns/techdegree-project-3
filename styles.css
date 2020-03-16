@@ -120,7 +120,7 @@ header .profile-image:hover {
   background-color: #222;
   color: yellow;
 }
-.card {
+.section {
   margin: 30px;
   padding: 20px 40px 40px;
   max-width: 500px;
@@ -130,7 +130,7 @@ header .profile-image:hover {
   border-radius: 6px;
   transition: all .5s;
 }
-.card:hover {
+.section:hover {
   border-color: #00B140;
 }
 
